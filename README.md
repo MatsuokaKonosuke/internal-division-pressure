@@ -124,5 +124,5 @@ One-line derivation: total moles conserved; solve \(P\) from
 ## Appendix: Handwritten Notes
 This is the original handwritten derivation and visualization of the internal-division approach.
 
-![Handwritten Notes](IMG_20251003_182617.jpg)
+![Handwritten Notes](1759486595810.jpg)
 
